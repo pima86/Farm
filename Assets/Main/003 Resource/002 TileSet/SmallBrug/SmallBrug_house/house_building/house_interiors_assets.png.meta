@@ -1,0 +1,6190 @@
+fileFormatVersion: 2
+guid: 70333f040f7dc0f468393ec34f5d4554
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_interiors_assets_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f199d4a46c9707044989a2ce834696e6
+      internalID: 1041953721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 464
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4280e19741d6894fa8207a674548122
+      internalID: 670048354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 464
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81c7e07a5d5e6c44993e2a3d1c8c7dc
+      internalID: -1130717952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 464
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44df2f6ef860e14c882f48f9b7f7c92
+      internalID: 1097400324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 464
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f0ee75459bc59429b6a1196c5df466
+      internalID: 1565348881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 464
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380a36599c4471d4fa9287f527095ef8
+      internalID: -104011881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 464
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7a5f95e8b8f344c8bfc8140eada993
+      internalID: 725042474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60583fdbbce75e14fa83783a21ac97e2
+      internalID: -1444153084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696fd9beca9c5af4a8e55bbf2b4a5758
+      internalID: 1895346866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 480
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f36dbd9a1ca01c41a054e270d36ed99
+      internalID: -374977882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 480
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f36313d2fec494bad214c0424936f5
+      internalID: 2144917108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 480
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5a803f9f34f494b98362882ed5fcb4
+      internalID: 803678291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 480
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db651a70a5b6d41488e9c14a5feae7f8
+      internalID: -842823722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 480
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2ad951cf8b6ad49b686e855a75f390
+      internalID: 1648834655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 480
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee26015c910c4442a9d7ba02a170a47
+      internalID: 1814590163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_15
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 481
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93caebf4e8d1f0f41af99b45c1d6699a
+      internalID: 582043754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 481
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7aa467aa7281b49b3d083849b38c28
+      internalID: -868319404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 481
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716e62b694cd61442866cdc49d3be192
+      internalID: 1815207489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 481
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304e7fc4ee49b5e47a0bd2a8251bc60b
+      internalID: -737129928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_19
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 481
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ecfeab2c146ae499b312a45a4e0728
+      internalID: 488407288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 481
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df51b62b44c69740b76443461706b96
+      internalID: -57562344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_21
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 481
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69cf518e327e2942b2526bc6d6afdca
+      internalID: -1588186187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_22
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 481
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eea623f07c8784786d5718a372cfea
+      internalID: 1840409428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 480
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f934e7bde467ca64c808fc2c43324aed
+      internalID: 1131622405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_24
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca785f4d902b2ec419d5a44ea2071acb
+      internalID: 1307838346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90fae5790cb1af4eaaeeda481aa7fe7
+      internalID: 909146408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 480
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffea1ab494ec2984198b0f5c03ee95e4
+      internalID: -112319561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_27
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fbca596283f204d98ca335beed696c
+      internalID: 1791508916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_28
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7989a4d2cbdf4449889aaede980fce5
+      internalID: -1997372755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_29
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 480
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d8c2721da1fa4eaff5188228fee4c
+      internalID: 830308370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_30
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9092154dcf499584792f9a50f156c8e2
+      internalID: 1115527653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_31
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 480
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ba8e74cb354584f8b3f7c142322194
+      internalID: -306579782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_32
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 480
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5faff92c949f4788fe14811413722
+      internalID: -2058495605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6bd6f60520b5c4b898385e699e1b51
+      internalID: 305928925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 480
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68796afc8ccf4945b0c56a6f5b28f3b
+      internalID: 1864876696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b1bcc3a7bdd0540b026f44dc228688
+      internalID: 616799911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d186113f0448f341b3dad2d59e6e122
+      internalID: 33877642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 464
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d352826a898fd0d4f919ad5b25dc677d
+      internalID: 1767639480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 448
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b40c6eaf769d341b413bfb1f13f7e8
+      internalID: -855919133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 448
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b873dbc646e3fc4f954dbf0dae8c36d
+      internalID: -1033884723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_40
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 448
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdeba1cd335ecc48a83f937f2def306
+      internalID: -602843113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 448
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1536b5492efcb458b6a666aa876d22
+      internalID: -1176925988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_42
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 448
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c20daa331d3b346add220456361062
+      internalID: -1690481013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_43
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 448
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab67b4d6944f7af4b9aa121eeb53f6d1
+      internalID: -1360873174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f67efa1d4fb9b443b9876717b1f3c0e
+      internalID: 882778512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 432
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fe9f9318633934da90b787e1407234
+      internalID: -1332904880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_46
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 432
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e57655ae7b127439fcdf21e9904215
+      internalID: -1511172698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_47
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 432
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b55734efbcc9f49b5503567a27ecc5
+      internalID: 1639431516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 432
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b13e268eecc7d74c9e7fb333fc16d9b
+      internalID: 1494594474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_49
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 432
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcc0701a683fe34590358ed3bd057b7
+      internalID: 1894066793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_50
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 432
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300de59d809f72b438293ed85b7ae1d7
+      internalID: 695466709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 448
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced75c6368656643aa1d0110db255a9
+      internalID: -523356672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b589901fbc933b6469df1177b0718242
+      internalID: -209894623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_53
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 448
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34edcddaa902f974aa9d3d2f24677fca
+      internalID: -1625538795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_54
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52ce9011aae43d4f9c655a7e716f8e5
+      internalID: -1618248165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_55
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 448
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b11664c1926b44d812dc8ba14e4991
+      internalID: -812738354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_56
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01127fccaecdf90499f38b55d5f6d75f
+      internalID: 617168306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_57
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 448
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bf09f0bfdb360418fc6e63bf6844f1
+      internalID: 1896900214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_58
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84697d0ae1819664f9c3d268075a51b9
+      internalID: -805076515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24ca8e43674e9d469ac8b74915ceef8
+      internalID: 60392418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_60
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 448
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111b32818add994419a8ca63087950dc
+      internalID: 1121044576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_61
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d828f36382fe744ac17e366f55455f
+      internalID: -1932274466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_62
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 448
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588107e0f99fd0e4f9eb01d56c3cb717
+      internalID: 843973187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_63
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 448
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d14349b028771b47a9f17708b5bd0ae
+      internalID: -1444347531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_64
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5510402c867268b479f040148cb19d1d
+      internalID: 572638466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_65
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 448
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156044a09f5215a4292a1e9d91a3733a
+      internalID: -2016576297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_66
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 448
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c5877ff9cc7ff41a483c65c0329f3f
+      internalID: 1406449194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_67
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3398ace70e8a84b4885a35fa4b0e9ff0
+      internalID: 986870163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_68
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5234c73963ad4458ece64473ed2870
+      internalID: 1395719894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 395
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97044b88907fe342a46465de8edebb3
+      internalID: -1595714304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_70
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 395
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bcaf209662c3547b3509b02c9c8015
+      internalID: -1152084634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 395
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947f15ebf12e3f64089c675edcbb33f0
+      internalID: -1950315785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_72
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 395
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad35ce6f633168148be10be13f374047
+      internalID: 1839112591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_73
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 414
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d52ea849da43d4ca45b4240f2a0008
+      internalID: -1257780275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 414
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bc8d7720cf37f46b836446d1061675
+      internalID: 1695716514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_75
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 413
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caa595f6c0c8a0408fb825a89ba4c67
+      internalID: 127526993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_76
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 413
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325b943b2f3cb594c89dfe1cbfb6d50a
+      internalID: 1181410402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_77
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 400
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e5a71b33e8ee34aa3c4b6c61d21a39
+      internalID: -1898931461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 400
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14bf789252109c41b55eb9d5a7aaa1d
+      internalID: -1105683811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_79
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 416
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc978463937effe429f76b643b279035
+      internalID: -1541139804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_80
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d016320ee44d04aafe3185d71f5a0f
+      internalID: -992849200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_81
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 416
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677a4a944cbad8d418d7a295f1693e56
+      internalID: -1778448824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_82
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 416
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b508597b24eacd46a8f11283fb8faa8
+      internalID: -493212393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_83
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4bbd9fa5e397141a24ca53c6660fac
+      internalID: 94891207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_84
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 416
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eca580124a9214eaea754bc3081e62
+      internalID: -354607830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_85
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 416
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec3eda992c92fe4d8a6c9aab59d8772
+      internalID: -990969478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_86
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b928cfffdc588b84e84e80b0a2c20146
+      internalID: 1430946494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_87
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 416
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3585bceb97a487f428b31d5eac687281
+      internalID: -362757458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_88
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 416
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae367adaa79c6143b8fcca396028255
+      internalID: 752966584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_89
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ad37b771585c4aadaaa0fe38683eb
+      internalID: -1600295080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_90
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 416
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a956c0b3223ce44384c46532708a057
+      internalID: 334569126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 408
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4953d0c631d03dc4996b0b5154314fd1
+      internalID: -1465183153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_92
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 408
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8dc49be3fc28a418ce83f98b0cab3c
+      internalID: 1616605191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_93
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 408
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70c46cab59d4f940822d3d4cd352221
+      internalID: 106398489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_94
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 408
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf3f958226535d4ba093f5ed1649d9a
+      internalID: -2122104260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 402
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce967655a567e804696c65aba8dfcdd1
+      internalID: -1951401454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_96
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 402
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4274513c4fd5641905dc62bac0a388
+      internalID: 178107629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_97
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 402
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cab184355462364499923b84b79a35e
+      internalID: -468271907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_98
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 403
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4c47f16088c174cae9cc2c2262e722
+      internalID: -1780554995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_99
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 403
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e742fb7125ea44ab11cc0a22720fe
+      internalID: 644911821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 386
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3498d8bb33a9f504e8e4ec30c9a19874
+      internalID: -641191842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_101
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 388
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954dc7811b5bae34b8cbe1d4b68385d6
+      internalID: 2139015432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_102
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 388
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a983288a2c464aa0822c301744cee
+      internalID: 1610001113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_103
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 388
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8824f57fc0354784f8ee77d66974615e
+      internalID: 695852105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_104
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 386
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38993e5571712304383d43c4898a635e
+      internalID: -1713480113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_105
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 385
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7960a0f0644d2440a589c87ab69e6e3
+      internalID: -1777313608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_106
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 384
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b16ae1bcc847cd41bc713234cb602dc
+      internalID: -1884309253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_107
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da08c5e071e044843886595bc8f6b374
+      internalID: 1339243917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_108
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a404a357c33cb78489ac0d40ffe3106a
+      internalID: -1661967975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_109
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 384
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65025fa236557574c9ce06452b5e5db9
+      internalID: 444425331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_110
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86158bbbf4264504296ab213fcc985af
+      internalID: -442966534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_111
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c045a247e2b84468ad71ff8b973f55
+      internalID: 1244308044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_112
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 384
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263712e60c2ab5b40879956df9b70fe3
+      internalID: 245535061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_113
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb47867ad4a30d44a6497e3e8029a4e
+      internalID: 532726325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_114
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 384
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d5c9315e354c5448b44ddeb927cedd
+      internalID: 780838566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_115
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 384
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7d02b4bbe0bad40816f058fa99dfdc
+      internalID: -598493409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_116
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebebcb283d0196a4dac03f45e37002bd
+      internalID: 919918866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_117
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710883d4d38c7fd4f96201beafbf0057
+      internalID: -681294473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_118
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 368
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71c68d59a61d364ca36da4be82163da
+      internalID: -535489241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_119
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 368
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c88229fd7c052448bdbfb7a00d85c6
+      internalID: 993250660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_120
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 370
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccbb4080c314aa4a9c665a419273cde
+      internalID: -173304198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_121
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 369
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da88b44acb6f3e3448bc7a8b8e3a2eb0
+      internalID: -2064459623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_122
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 336
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6352c727586c5a419fcceecfb569f87
+      internalID: -1415962284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_123
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 336
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22fb97267a362e4f80024a25c45abce
+      internalID: 775354634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2ea5196dbaf54439ad4cb3e7fa11cf
+      internalID: -1707199935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce69e25d1664ae439862b571cffcc44
+      internalID: 556535303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_126
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 352
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e5b95bb7ba06844891d924cb04e5d5
+      internalID: -1044327826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_127
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 352
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94603549e4b0bc54680e3cad656f36bf
+      internalID: -548961229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_128
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 354
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89c85a594e0c2344a4f5dc81a109db2
+      internalID: 1718927824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_129
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 352
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6843eb9fef174ea4a981767ee51c9ce7
+      internalID: -395085892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_130
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 336
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5669e75f9dcb90468c032a8828f2212
+      internalID: 406899046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_131
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 336
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9235e8b728734d14795402bf7d2c83c6
+      internalID: 1948994779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe4e06be0eacba4dbe51c8f01170183
+      internalID: 96301741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfd63b7df6bd924ca217c1b55722859
+      internalID: 1870498828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_134
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 338
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ae6b730362268428c16191d80f98b4
+      internalID: -1089583774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_135
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 338
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a787341613492242a7072534080eee4
+      internalID: 1189607272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_136
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 304
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da67fff895427d42be4cabf890e8259
+      internalID: -1473691591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_137
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 304
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df99214a7cc17a48a96046b6293666c
+      internalID: 631024362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_138
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 304
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a788b12b6ef76d64ab06f795a1696e97
+      internalID: -1586224260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_139
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 304
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a526f22b076954ca34feb716a05046
+      internalID: 2133974797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb116ee1b3ac1664aa844239ceedf75e
+      internalID: 329362986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ab5487d236b954594e4218797515bc
+      internalID: -669733897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76ce92ef2084ac4f9769309d9208dfe
+      internalID: -1326518363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7264ef09443cd1445a4849084ebe049c
+      internalID: -1069144070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_144
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febb80d24d1d63f42998b16b7fe267c4
+      internalID: -2071335630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_145
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 288
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418941e26e6bad441894800a9f8a2156
+      internalID: -1466320954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_146
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 268
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3af5dd903f4c7428395ef413b22e93
+      internalID: 754878719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_147
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 268
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62e3e9ee4c04d40b7762272e8f788c
+      internalID: 706187041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_148
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 268
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ecdf590f906b24385534ee8ee25a0e
+      internalID: -1568322197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_149
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 268
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85f2e2e272c5bd449fce95a3825a27d
+      internalID: 1182893270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_150
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 264
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7085a3f46fab34d95d8678ba5da8d9
+      internalID: -465278637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_151
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f443bf8f158154289160367fb11ba5
+      internalID: 2063513335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 263
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc003bdc9bd4d44478b70905758bf48b
+      internalID: -746710983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_153
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 271
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6920d9b72f0e14f88d37ae5f69ab24
+      internalID: 1157059649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_154
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 270
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b6d3eb42433e94cab6a852972abd47
+      internalID: -542592288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_155
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbc0ccb89592e545b8dfba17cf5cd59
+      internalID: 650186615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_156
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5144dff9188daa47847ad378f8941d1
+      internalID: -74188295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_157
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 240
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0441b25967a894e838d14c0998fdd6
+      internalID: 687867894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_158
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 240
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d5534996d327248a5ba037c329e343
+      internalID: 1111868869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_159
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70336e039462c7e40a7b5bdd9d03a82a
+      internalID: -2049733733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_160
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d6e8b70adcdbd4ab92c265f3ae1900
+      internalID: 605174499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_161
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422107bc0ed9c594a875b8d46ce45145
+      internalID: 2038077584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94472ac4f0b6b414f987caff3eb0ff53
+      internalID: -378826774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_163
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 231
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc6e17163cd8ad469f177d58ca2b074
+      internalID: 672289251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_164
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 231
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b355506a6cbfa44a364e4bb425cb03
+      internalID: -684562204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_165
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 231
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef33d764f5c841946ae8bdcd64858f63
+      internalID: 1257403297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_166
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 231
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f13a6372babe4ca213f4eec0e4971
+      internalID: -2050976557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_167
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 231
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127215bbcad485a4ca143fd6f2f24f8e
+      internalID: 1058472066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_168
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 231
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1722ccfec79df44b491d2b48cc3551
+      internalID: -1225118849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_169
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f390808ead6fb9647ba67f3e5e204d22
+      internalID: 1071062303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_170
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 233
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc38bd82acd4aa48b64046a5d933a71
+      internalID: -1288255263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_171
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 233
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4d027342d827b4297dd3a741be95a3
+      internalID: 52085303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_172
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 242
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4160aee0aa3b7b419f296a8a458146a
+      internalID: 630868297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_173
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 242
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0193ed0b3e00540bd39db98d1a90f4
+      internalID: -422235588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_174
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 242
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf4db1fbb2a3c40b371e1f29c817ad
+      internalID: -1934436601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_175
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 242
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db812b925d9fb7248936169ad84a8b79
+      internalID: 619029113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_176
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2879e23b3f79347a38241c259384ff
+      internalID: -883499373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_177
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 220
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda5f35768c96324fba7d03ce746c164
+      internalID: 1846860935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_178
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 220
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddfd95199e136449907eb7404cbce53
+      internalID: 1047541028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_179
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 220
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82bccdf5d056c040b6384ff17edf66d
+      internalID: -1439699267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_180
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 220
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204206ba814728a4b8fe2c64535a4dfd
+      internalID: 1726604520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_181
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 226
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646cbeb6204b1654987811adbf5c138c
+      internalID: -1186673942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_182
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 226
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9373e3c934ddf429c269a6e71e7972
+      internalID: -1016421071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_183
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 226
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3c2bbb48535094b91d94ebacf1cde2
+      internalID: 1273649453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 226
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7aa248a6237ae4991b27234667ba22
+      internalID: 509601211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_185
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 201
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707277c7710b71c4c87ae2769a15aed4
+      internalID: -1513499335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_186
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 201
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85271e78b69bc04789eb140df874514
+      internalID: -937705179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_187
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 210
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c1c8bf6b863746830db2e9da6f989
+      internalID: -750776566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_188
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 210
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f981d97708120438bc4ce86b1f17b4
+      internalID: -1308811681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_189
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 210
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0784ffa08741e64dbe05563d8b6d898
+      internalID: 1398060918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_190
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 210
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cef0c44210955439fba3c9e3dc104c
+      internalID: -1870255529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_191
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45cf2de29b38204db7301aa48d791c3
+      internalID: -820609331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7ead0813c331e4bb4deb9f095749cc
+      internalID: -772440760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140c980766eec3a4aa372a46963479ee
+      internalID: 1888085288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_194
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 194
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015e031430118af42b7130c31599f174
+      internalID: -553787632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_195
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 194
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d934dd4f42950c49ba028dedb8b30f8
+      internalID: -1798972748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_196
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 194
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f58f7b3f5f85c4d938196d409af245
+      internalID: 563296973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_197
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 194
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaa68e27a089d54591c32de31dc4103
+      internalID: -236346614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_198
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 172
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbda223248884a458824146741b6dce
+      internalID: 1062545019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_199
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 172
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8752086c682985a499c5fe4b30c1eb72
+      internalID: 852142224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_200
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 172
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c933da3c08fcd14fbf81f1d38d6d104
+      internalID: 1576316935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_201
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 172
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7053101a3b0a741a390304a28bc650
+      internalID: -124538135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_202
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 176
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f41876178c43f43a8f6224de7b3798
+      internalID: 586117718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_203
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 176
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d687edffa3a2d40ac3c17078e29abb
+      internalID: 1354437868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_204
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca604c61a8c283d4da311d3400516ee6
+      internalID: -1555504009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_205
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81605f11af254fc4d9d69923f0335556
+      internalID: -2063785708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_206
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82be0194338d5f840a80edf27e1a04da
+      internalID: -1995051980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_207
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9fa4dbcbd00bd488b6836c1352c1a4
+      internalID: 123405737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_208
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 167
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07479b9503dc1c948b52a1047ee1dff6
+      internalID: -1199743169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_209
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 167
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea934226e58b74296f1d35f4260b05
+      internalID: 152910524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_210
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 167
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d39dea35ec19784e8a4ef729a0921f7
+      internalID: -451819253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_211
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 167
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c4bd3608e92e46a93cf5c80b9b7e5
+      internalID: 1450513995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_212
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 167
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767a09ce2ed1784683c2f12c0f04b8c
+      internalID: 502239837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_213
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 167
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3bcfa5a7fdbe747b687e8abc37be66
+      internalID: -979788310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_214
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 174
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1950e0994dd3d4b9a28c406b8bf980
+      internalID: 1213627592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_215
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 169
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bdb012dd8bbcf43854c5b6eb74c13f
+      internalID: 1015519820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_216
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 169
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00e79e6e57b394681a5f1da7e0d437
+      internalID: -2132021163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_217
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 178
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df20a775eade5d4fbf6e0ccb3bf658e
+      internalID: -1110673609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_218
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 178
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7424fa51b794a347a91b63b814bea3d
+      internalID: -60240831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_219
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 162
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875818ea334355a4b91c34afc798195e
+      internalID: -1780445736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_220
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 162
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723b86497e5e22e4b8579ef714a677fc
+      internalID: 375380986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_221
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 146
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9c35b2e5ed69c4a8a08a793f4ff5d8
+      internalID: 316950954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_222
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 146
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700df1b38b0df8646b60fa006bd297bc
+      internalID: 449554763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_223
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 130
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fbc2db182d7e540a87c79a6cd64f69
+      internalID: -1673791724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_224
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 130
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad33a0fb857b7fa43a9f46ef28f27a5d
+      internalID: -692499217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_225
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 121
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743ad57cd71c0834b9b5610bba3e347a
+      internalID: -491913702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_226
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 121
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d82da009bad81a4faa3cac654d29f66
+      internalID: 1834251520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_227
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 136
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1179e99fdc549ca48992833d24348258
+      internalID: 362805098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 136
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15feac9cd9f35e4dbf6e13ab9e78285
+      internalID: 454902770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_229
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b13dcf918af794d909217597dd5503
+      internalID: 300352847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_230
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 130
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751dc4da8e233f243b03edc23cc5e444
+      internalID: -357080889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_231
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 130
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6660921a2d87e14893ffecb9612c5ff
+      internalID: -1654954471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_232
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f2367f355f0940a32fa5fca0823bd
+      internalID: -2099708137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_233
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f0111444416844c81390fcf7f39340
+      internalID: 1535992525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_234
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641851451200c2d49ac8f91004f36fc6
+      internalID: 731131394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_235
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28be684287848314697534538f2a74ea
+      internalID: 1935396868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_236
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707afc2c2f080ea4b934f47cfe12d1b8
+      internalID: 257449305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_237
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2c93e449efc646861c10d68fa733b
+      internalID: -378087403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_238
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 103
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c23b73b739fcb44f866335d91ccf109
+      internalID: 1798833397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_239
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 103
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b6b7b8a32aa114d9e08d8d9146230b
+      internalID: -1530115246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_240
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 103
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34497e6523ad598419fbf7f85f7d4fca
+      internalID: 326768181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_241
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 103
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608d53e7d45ee8846a6a76deb8291e2f
+      internalID: -504253178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_242
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 103
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc31dc5695553a48ab5690a67f2e67a
+      internalID: -1766678107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_243
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 103
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd7e852723df574298c4272d8e0bce4
+      internalID: -556624132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_244
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 110
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0176d228924d34c9918b9132db852c
+      internalID: -2025714136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_245
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 98
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6e889b5b267dd4480d2f9832240590
+      internalID: 1675697925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_246
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 98
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7e3bfc8ab38ad43890bd9d9e1530e4
+      internalID: 1019294036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_247
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc7674eecb1994dadff1ab152f4eaa
+      internalID: -1564368359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_248
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b7a0c5bf0e8384cb55ea7d5c77e106
+      internalID: 1013659898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_249
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ca58165b2ebf64bb2765d937ef14d9
+      internalID: -1372394231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_250
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 66
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ce9e33583f1cd44b5553dfb9305e71
+      internalID: 740917312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_251
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 66
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d4309df736a8845925dc84614367a5
+      internalID: -793610596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_252
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 73
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e77d71f6d45244be6052c6c1801aa
+      internalID: -373590711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_253
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 73
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16c02927cc326c4b8c1d4241093b8a5
+      internalID: 1694491989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_254
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2013cc5aca5c13549a2e8ad66a161910
+      internalID: 1746857613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_255
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddbccce7a279b0418b30bf3e6456688
+      internalID: 1959084503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_256
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b3be88ae08d124eac3e37719c15461
+      internalID: -1837841013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_257
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07970f8963b8fd84bba4160684b7df5c
+      internalID: -2015805383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_258
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cd50be4f7882341a6206c9f807e786
+      internalID: 1394633859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_259
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f052b7fc887c0a47a6503d7a8d1b096
+      internalID: -1587116029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_260
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 39
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666807dad602cc14fb6469328e5ddf57
+      internalID: 788634768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_261
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de754c08f114b5a4d9c90dbaee36394f
+      internalID: 1114456137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_262
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 39
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b2d88b2fcdb8d46b9059a3a0a83c0a
+      internalID: 138407541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_263
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 39
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187a3cac1120d794d97415f2a596bb2c
+      internalID: -905625113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_264
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 39
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60357d7ace814e349aa19a5c52cf0c3a
+      internalID: 1965671634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_265
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 39
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e005ca0e260f4d9b1e9cfc3afe7fb
+      internalID: -344596385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_266
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 46
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f03ad2cb1c56e41be9ae66097ae11e
+      internalID: 1191317865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_267
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 25
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03670c49bce1df448af55a10fe59561
+      internalID: -2053240190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_268
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 25
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3136ec5ea76da61438ab1c6cd58859e9
+      internalID: -2139515905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_269
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 347
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991bce533b6daa7488942ec2e4e8e115
+      internalID: 1625699120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_270
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 347
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286fb8b0f56162b44b96a9c2e8167384
+      internalID: 1123626175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_271
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 343
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f049f24b443683b4a9094ded2ebb9f23
+      internalID: -2036837073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_272
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 339
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b41e44cf960db47aad75abe1116e06
+      internalID: 488494654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_273
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 339
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e4b563383a6fe4491cde4fd9adba30
+      internalID: -1380349198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_interiors_assets_274
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 343
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb465e04fcaf146be21d8895f4b3e8
+      internalID: -1093821232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 060591ea2c1fe4c4ab040700595ae6e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      house_interiors_assets_0: 1041953721
+      house_interiors_assets_1: 670048354
+      house_interiors_assets_10: 2144917108
+      house_interiors_assets_100: -641191842
+      house_interiors_assets_101: 2139015432
+      house_interiors_assets_102: 1610001113
+      house_interiors_assets_103: 695852105
+      house_interiors_assets_104: -1713480113
+      house_interiors_assets_105: -1777313608
+      house_interiors_assets_106: -1884309253
+      house_interiors_assets_107: 1339243917
+      house_interiors_assets_108: -1661967975
+      house_interiors_assets_109: 444425331
+      house_interiors_assets_11: 803678291
+      house_interiors_assets_110: -442966534
+      house_interiors_assets_111: 1244308044
+      house_interiors_assets_112: 245535061
+      house_interiors_assets_113: 532726325
+      house_interiors_assets_114: 780838566
+      house_interiors_assets_115: -598493409
+      house_interiors_assets_116: 919918866
+      house_interiors_assets_117: -681294473
+      house_interiors_assets_118: -535489241
+      house_interiors_assets_119: 993250660
+      house_interiors_assets_12: -842823722
+      house_interiors_assets_120: -173304198
+      house_interiors_assets_121: -2064459623
+      house_interiors_assets_122: -1415962284
+      house_interiors_assets_123: 775354634
+      house_interiors_assets_124: -1707199935
+      house_interiors_assets_125: 556535303
+      house_interiors_assets_126: -1044327826
+      house_interiors_assets_127: -548961229
+      house_interiors_assets_128: 1718927824
+      house_interiors_assets_129: -395085892
+      house_interiors_assets_13: 1648834655
+      house_interiors_assets_130: 406899046
+      house_interiors_assets_131: 1948994779
+      house_interiors_assets_132: 96301741
+      house_interiors_assets_133: 1870498828
+      house_interiors_assets_134: -1089583774
+      house_interiors_assets_135: 1189607272
+      house_interiors_assets_136: -1473691591
+      house_interiors_assets_137: 631024362
+      house_interiors_assets_138: -1586224260
+      house_interiors_assets_139: 2133974797
+      house_interiors_assets_14: 1814590163
+      house_interiors_assets_140: 329362986
+      house_interiors_assets_141: -669733897
+      house_interiors_assets_142: -1326518363
+      house_interiors_assets_143: -1069144070
+      house_interiors_assets_144: -2071335630
+      house_interiors_assets_145: -1466320954
+      house_interiors_assets_146: 754878719
+      house_interiors_assets_147: 706187041
+      house_interiors_assets_148: -1568322197
+      house_interiors_assets_149: 1182893270
+      house_interiors_assets_15: 582043754
+      house_interiors_assets_150: -465278637
+      house_interiors_assets_151: 2063513335
+      house_interiors_assets_152: -746710983
+      house_interiors_assets_153: 1157059649
+      house_interiors_assets_154: -542592288
+      house_interiors_assets_155: 650186615
+      house_interiors_assets_156: -74188295
+      house_interiors_assets_157: 687867894
+      house_interiors_assets_158: 1111868869
+      house_interiors_assets_159: -2049733733
+      house_interiors_assets_16: -868319404
+      house_interiors_assets_160: 605174499
+      house_interiors_assets_161: 2038077584
+      house_interiors_assets_162: -378826774
+      house_interiors_assets_163: 672289251
+      house_interiors_assets_164: -684562204
+      house_interiors_assets_165: 1257403297
+      house_interiors_assets_166: -2050976557
+      house_interiors_assets_167: 1058472066
+      house_interiors_assets_168: -1225118849
+      house_interiors_assets_169: 1071062303
+      house_interiors_assets_17: 1815207489
+      house_interiors_assets_170: -1288255263
+      house_interiors_assets_171: 52085303
+      house_interiors_assets_172: 630868297
+      house_interiors_assets_173: -422235588
+      house_interiors_assets_174: -1934436601
+      house_interiors_assets_175: 619029113
+      house_interiors_assets_176: -883499373
+      house_interiors_assets_177: 1846860935
+      house_interiors_assets_178: 1047541028
+      house_interiors_assets_179: -1439699267
+      house_interiors_assets_18: -737129928
+      house_interiors_assets_180: 1726604520
+      house_interiors_assets_181: -1186673942
+      house_interiors_assets_182: -1016421071
+      house_interiors_assets_183: 1273649453
+      house_interiors_assets_184: 509601211
+      house_interiors_assets_185: -1513499335
+      house_interiors_assets_186: -937705179
+      house_interiors_assets_187: -750776566
+      house_interiors_assets_188: -1308811681
+      house_interiors_assets_189: 1398060918
+      house_interiors_assets_19: 488407288
+      house_interiors_assets_190: -1870255529
+      house_interiors_assets_191: -820609331
+      house_interiors_assets_192: -772440760
+      house_interiors_assets_193: 1888085288
+      house_interiors_assets_194: -553787632
+      house_interiors_assets_195: -1798972748
+      house_interiors_assets_196: 563296973
+      house_interiors_assets_197: -236346614
+      house_interiors_assets_198: 1062545019
+      house_interiors_assets_199: 852142224
+      house_interiors_assets_2: -1130717952
+      house_interiors_assets_20: -57562344
+      house_interiors_assets_200: 1576316935
+      house_interiors_assets_201: -124538135
+      house_interiors_assets_202: 586117718
+      house_interiors_assets_203: 1354437868
+      house_interiors_assets_204: -1555504009
+      house_interiors_assets_205: -2063785708
+      house_interiors_assets_206: -1995051980
+      house_interiors_assets_207: 123405737
+      house_interiors_assets_208: -1199743169
+      house_interiors_assets_209: 152910524
+      house_interiors_assets_21: -1588186187
+      house_interiors_assets_210: -451819253
+      house_interiors_assets_211: 1450513995
+      house_interiors_assets_212: 502239837
+      house_interiors_assets_213: -979788310
+      house_interiors_assets_214: 1213627592
+      house_interiors_assets_215: 1015519820
+      house_interiors_assets_216: -2132021163
+      house_interiors_assets_217: -1110673609
+      house_interiors_assets_218: -60240831
+      house_interiors_assets_219: -1780445736
+      house_interiors_assets_22: 1840409428
+      house_interiors_assets_220: 375380986
+      house_interiors_assets_221: 316950954
+      house_interiors_assets_222: 449554763
+      house_interiors_assets_223: -1673791724
+      house_interiors_assets_224: -692499217
+      house_interiors_assets_225: -491913702
+      house_interiors_assets_226: 1834251520
+      house_interiors_assets_227: 362805098
+      house_interiors_assets_228: 454902770
+      house_interiors_assets_229: 300352847
+      house_interiors_assets_23: 1131622405
+      house_interiors_assets_230: -357080889
+      house_interiors_assets_231: -1654954471
+      house_interiors_assets_232: -2099708137
+      house_interiors_assets_233: 1535992525
+      house_interiors_assets_234: 731131394
+      house_interiors_assets_235: 1935396868
+      house_interiors_assets_236: 257449305
+      house_interiors_assets_237: -378087403
+      house_interiors_assets_238: 1798833397
+      house_interiors_assets_239: -1530115246
+      house_interiors_assets_24: 1307838346
+      house_interiors_assets_240: 326768181
+      house_interiors_assets_241: -504253178
+      house_interiors_assets_242: -1766678107
+      house_interiors_assets_243: -556624132
+      house_interiors_assets_244: -2025714136
+      house_interiors_assets_245: 1675697925
+      house_interiors_assets_246: 1019294036
+      house_interiors_assets_247: -1564368359
+      house_interiors_assets_248: 1013659898
+      house_interiors_assets_249: -1372394231
+      house_interiors_assets_25: 909146408
+      house_interiors_assets_250: 740917312
+      house_interiors_assets_251: -793610596
+      house_interiors_assets_252: -373590711
+      house_interiors_assets_253: 1694491989
+      house_interiors_assets_254: 1746857613
+      house_interiors_assets_255: 1959084503
+      house_interiors_assets_256: -1837841013
+      house_interiors_assets_257: -2015805383
+      house_interiors_assets_258: 1394633859
+      house_interiors_assets_259: -1587116029
+      house_interiors_assets_26: -112319561
+      house_interiors_assets_260: 788634768
+      house_interiors_assets_261: 1114456137
+      house_interiors_assets_262: 138407541
+      house_interiors_assets_263: -905625113
+      house_interiors_assets_264: 1965671634
+      house_interiors_assets_265: -344596385
+      house_interiors_assets_266: 1191317865
+      house_interiors_assets_267: -2053240190
+      house_interiors_assets_268: -2139515905
+      house_interiors_assets_269: 1625699120
+      house_interiors_assets_27: 1791508916
+      house_interiors_assets_270: 1123626175
+      house_interiors_assets_271: -2036837073
+      house_interiors_assets_272: 488494654
+      house_interiors_assets_273: -1380349198
+      house_interiors_assets_274: -1093821232
+      house_interiors_assets_28: -1997372755
+      house_interiors_assets_29: 830308370
+      house_interiors_assets_3: 1097400324
+      house_interiors_assets_30: 1115527653
+      house_interiors_assets_31: -306579782
+      house_interiors_assets_32: -2058495605
+      house_interiors_assets_33: 305928925
+      house_interiors_assets_34: 1864876696
+      house_interiors_assets_35: 616799911
+      house_interiors_assets_36: 33877642
+      house_interiors_assets_37: 1767639480
+      house_interiors_assets_38: -855919133
+      house_interiors_assets_39: -1033884723
+      house_interiors_assets_4: 1565348881
+      house_interiors_assets_40: -602843113
+      house_interiors_assets_41: -1176925988
+      house_interiors_assets_42: -1690481013
+      house_interiors_assets_43: -1360873174
+      house_interiors_assets_44: 882778512
+      house_interiors_assets_45: -1332904880
+      house_interiors_assets_46: -1511172698
+      house_interiors_assets_47: 1639431516
+      house_interiors_assets_48: 1494594474
+      house_interiors_assets_49: 1894066793
+      house_interiors_assets_5: -104011881
+      house_interiors_assets_50: 695466709
+      house_interiors_assets_51: -523356672
+      house_interiors_assets_52: -209894623
+      house_interiors_assets_53: -1625538795
+      house_interiors_assets_54: -1618248165
+      house_interiors_assets_55: -812738354
+      house_interiors_assets_56: 617168306
+      house_interiors_assets_57: 1896900214
+      house_interiors_assets_58: -805076515
+      house_interiors_assets_59: 60392418
+      house_interiors_assets_6: 725042474
+      house_interiors_assets_60: 1121044576
+      house_interiors_assets_61: -1932274466
+      house_interiors_assets_62: 843973187
+      house_interiors_assets_63: -1444347531
+      house_interiors_assets_64: 572638466
+      house_interiors_assets_65: -2016576297
+      house_interiors_assets_66: 1406449194
+      house_interiors_assets_67: 986870163
+      house_interiors_assets_68: 1395719894
+      house_interiors_assets_69: -1595714304
+      house_interiors_assets_7: -1444153084
+      house_interiors_assets_70: -1152084634
+      house_interiors_assets_71: -1950315785
+      house_interiors_assets_72: 1839112591
+      house_interiors_assets_73: -1257780275
+      house_interiors_assets_74: 1695716514
+      house_interiors_assets_75: 127526993
+      house_interiors_assets_76: 1181410402
+      house_interiors_assets_77: -1898931461
+      house_interiors_assets_78: -1105683811
+      house_interiors_assets_79: -1541139804
+      house_interiors_assets_8: 1895346866
+      house_interiors_assets_80: -992849200
+      house_interiors_assets_81: -1778448824
+      house_interiors_assets_82: -493212393
+      house_interiors_assets_83: 94891207
+      house_interiors_assets_84: -354607830
+      house_interiors_assets_85: -990969478
+      house_interiors_assets_86: 1430946494
+      house_interiors_assets_87: -362757458
+      house_interiors_assets_88: 752966584
+      house_interiors_assets_89: -1600295080
+      house_interiors_assets_9: -374977882
+      house_interiors_assets_90: 334569126
+      house_interiors_assets_91: -1465183153
+      house_interiors_assets_92: 1616605191
+      house_interiors_assets_93: 106398489
+      house_interiors_assets_94: -2122104260
+      house_interiors_assets_95: -1951401454
+      house_interiors_assets_96: 178107629
+      house_interiors_assets_97: -468271907
+      house_interiors_assets_98: -1780554995
+      house_interiors_assets_99: 644911821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

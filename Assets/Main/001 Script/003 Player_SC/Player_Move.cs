@@ -23,16 +23,75 @@ public class Player_Move : MonoBehaviour
 
     void Update()
     {
+        New_GetKeyDown_UD();
+        New_GetKey_UD();
+        New_GetKeyUp_UD();
+        /*
         GetKeyDown_UD();
         GetKey_UD();
         GetKeyUp_UD();
+        */
     }
 
+    /*
+     * Update에서 호출하는 함수
+     */
+
+    #region New_GetKey_Script
+    int move_x = 0;
+    int move_y = 0;
+    void New_GetKeyDown_UD()
+    {
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
+            move_x -= 1;
+        if (Input.GetKeyDown(KeyCode.UpArrow))
+            move_y += 1;
+        if (Input.GetKeyDown(KeyCode.RightArrow))
+            move_x += 1;
+        if (Input.GetKeyDown(KeyCode.DownArrow))
+            move_y -= 1;
+    }
+
+    void New_GetKey_UD()
+    {
+        if (move_x == 0 && move_y == 0)
+        {
+            Anim_Parameters_Bool("isWalking", false);
+        }
+        else
+        {
+            Anim_Parameters_Bool("isWalking", true);
+
+            if (move_x == 1)
+                Anim_Parameters_Int("Looking at time", 3);
+            else if (move_x == -1)
+                Anim_Parameters_Int("Looking at time", 9);
+            else if (move_y == 1)
+                Anim_Parameters_Int("Looking at time", 12);
+            else if (move_y == -1)
+                Anim_Parameters_Int("Looking at time", 6);
+
+            if (Knowing_way(new Vector3(move_x, move_y, 0) * 0.1f))
+                GetKey_Move(move_x, move_y);
+        }
+    }
+
+    void New_GetKeyUp_UD()
+    {
+        if (Input.GetKeyUp(KeyCode.LeftArrow))
+            move_x += 1;
+        if (Input.GetKeyUp(KeyCode.UpArrow))
+            move_y -= 1;
+        if (Input.GetKeyUp(KeyCode.RightArrow))
+            move_x -= 1;
+        if (Input.GetKeyUp(KeyCode.DownArrow))
+            move_y += 1;
+    }
+
+    #endregion
+    #region GetKey_Script
     void GetKeyDown_UD()
     {
-        if (animators[0].GetBool("isWalking") || animators[0].GetBool("isRunning"))
-            return;
-
         if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
             Anim_Parameters_Int("Looking at time", 9);
@@ -56,25 +115,28 @@ public class Player_Move : MonoBehaviour
     }
     void GetKey_UD()
     {
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (animators[0].GetBool("isWalking") || animators[0].GetBool("isRunning"))
         {
-            if (Knowing_way(Vector3.left * 0.1f))
-                GetKey_Move(-1, 0);
-        }
-        if (Input.GetKey(KeyCode.UpArrow))
-        {
-            if (Knowing_way(Vector3.up * 0.1f))
-                GetKey_Move(0, 1);
-        }
-        if (Input.GetKey(KeyCode.RightArrow))
-        {
-            if (Knowing_way(Vector3.right * 0.1f))
-                GetKey_Move(1, 0);
-        }
-        if (Input.GetKey(KeyCode.DownArrow))
-        {
-            if (Knowing_way(Vector3.down * 0.1f))
-                GetKey_Move(0, -1);
+            if (Input.GetKey(KeyCode.LeftArrow))
+            {
+                if (Knowing_way(Vector3.left * 0.1f))
+                    GetKey_Move(-1, 0);
+            }
+            if (Input.GetKey(KeyCode.UpArrow))
+            {
+                if (Knowing_way(Vector3.up * 0.1f))
+                    GetKey_Move(0, 1);
+            }
+            if (Input.GetKey(KeyCode.RightArrow))
+            {
+                if (Knowing_way(Vector3.right * 0.1f))
+                    GetKey_Move(1, 0);
+            }
+            if (Input.GetKey(KeyCode.DownArrow))
+            {
+                if (Knowing_way(Vector3.down * 0.1f))
+                    GetKey_Move(0, -1);
+            }
         }
     }
     void GetKeyUp_UD()
@@ -102,9 +164,10 @@ public class Player_Move : MonoBehaviour
             Anim_Parameters_Bool("isWalking", false);
         }
     }
+    #endregion
 
     /*
-     * Update 또는 FixedUpdate에서 키보드 값을 입력받아 호출하는 함수
+     * Update에서 키보드 값을 입력받아 호출하는 함수
      */
     #region GetKey
     void GetKey_Move(int x = 0, int y = 0)
@@ -141,6 +204,8 @@ public class Player_Move : MonoBehaviour
     }
     #endregion
 
+    //애니메이션 변수 조정
+    #region Anim_Parameters 
     void Anim_Parameters_Int(string str, int tm)
     {
         for(int i = 0; i < animators.Length; i++)
@@ -152,28 +217,33 @@ public class Player_Move : MonoBehaviour
         for (int i = 0; i < animators.Length; i++)
             animators[i].SetBool(str, bo);
     }
+    #endregion
 
+    //갈 수 있는 길인지
+    #region Knowing_way
     bool Knowing_way(Vector3 pos)
     {
         LayerMask layer = LayerMask.GetMask("Tileset");
         RaycastHit2D hit = Physics2D.Raycast(transform.position + pos, transform.forward, 1f, layer);
         if (hit)
         {
-            if (hit.collider.name == "Layer Water")
-                return false;
-            else
+            if (hit.collider.name == "Layer Grass" || hit.collider.name == "Layer Load")
                 return true;
+            else
+                return false;
         }
         return false;
     }
+    #endregion
 
+    //내가 어디 위를 걷고 있는지
+    #region top_what
     float top_what()
     {
         LayerMask layer = LayerMask.GetMask("Tileset");
         RaycastHit2D hit= Physics2D.Raycast(transform.position + new Vector3(0, -0.05f, 0), transform.forward, 10f, layer);
         if(hit)
         {
-            Debug.Log(hit.collider.name);
             if (hit.collider.name == "Layer Load")
                 return move_speed_load;
             else
@@ -181,4 +251,5 @@ public class Player_Move : MonoBehaviour
         }
         return 0;
     }
+    #endregion
 }

@@ -15,7 +15,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - NGUI
   - 
   - 
   - 
@@ -46,4 +46,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2145497443
+    locked: 0
+  - name: High_BG
+    uniqueID: 56758779
     locked: 0
