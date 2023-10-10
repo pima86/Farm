@@ -79,6 +79,7 @@
     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenTransform.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\Other\DragDropItem.cs" />
     <Compile Include="Assets\Main\004 Server\GameManager.cs" />
+    <Compile Include="Assets\Main\007 NGUI\Button\MoveButton.cs" />
     <Compile Include="Assets\Main\004 Server\ClientHandle.cs" />
     <Compile Include="Assets\NGUI\Scripts\Internal\UIGeometry.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UITable.cs" />
@@ -104,6 +105,7 @@
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\UIItemStorage.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIDraggablePanel.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\Other\SpinWithMouse.cs" />
+    <Compile Include="Assets\Main\001 Script\006 Camera_SC\SmoothCam.cs" />
     <Compile Include="Assets\NGUI\Scripts\Internal\UIEventListener.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UICheckboxControlledObject.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\UITweener.cs" />
@@ -929,6 +931,9 @@
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Tilemap.Extras.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Services.Core.Environments">
       <HintPath>Library\ScriptAssemblies\Unity.Services.Core.Environments.dll</HintPath>
     </Reference>
@@ -1022,14 +1027,17 @@
     <Reference Include="Unity.VisualScripting.Core">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
+    <Reference Include="Unity.2D.Tilemap.Extras">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Analytics">
       <HintPath>Library\ScriptAssemblies\Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTracking">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>

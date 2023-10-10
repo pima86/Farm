@@ -23,9 +23,9 @@ public class Player_Move : MonoBehaviour
 
     void Update()
     {
-        New_GetKeyDown_UD();
-        New_GetKey_UD();
-        New_GetKeyUp_UD();
+        //New_GetKeyDown_UD();
+        //New_GetKey_UD();
+        //New_GetKeyUp_UD();
         /*
         GetKeyDown_UD();
         GetKey_UD();
@@ -52,27 +52,28 @@ public class Player_Move : MonoBehaviour
             move_y -= 1;
     }
 
-    void New_GetKey_UD()
+    public void New_GetKey_UD(Vector2 pos)
     {
-        if (move_x == 0 && move_y == 0)
+        if (pos.x == 0 && pos.y == 0)
         {
             Anim_Parameters_Bool("isWalking", false);
+            Anim_Parameters_Bool("isRunning", false);
         }
         else
         {
             Anim_Parameters_Bool("isWalking", true);
 
-            if (move_x == 1)
+            if (pos.x == 1)
                 Anim_Parameters_Int("Looking at time", 3);
-            else if (move_x == -1)
+            else if (pos.x == -1)
                 Anim_Parameters_Int("Looking at time", 9);
-            else if (move_y == 1)
+            else if (pos.y == 1)
                 Anim_Parameters_Int("Looking at time", 12);
-            else if (move_y == -1)
+            else if (pos.y == -1)
                 Anim_Parameters_Int("Looking at time", 6);
 
-            if (Knowing_way(new Vector3(move_x, move_y, 0) * 0.1f))
-                GetKey_Move(move_x, move_y);
+            if (Knowing_way(new Vector3(pos.x * 2f, pos.y, 0) * 0.01f))
+                GetKey_Move((int)pos.x, (int)pos.y);
         }
     }
 
@@ -86,6 +87,14 @@ public class Player_Move : MonoBehaviour
             move_x -= 1;
         if (Input.GetKeyUp(KeyCode.DownArrow))
             move_y += 1;
+
+        if (Input.GetKey(KeyCode.LeftArrow) ||
+            Input.GetKey(KeyCode.UpArrow) ||
+            Input.GetKey(KeyCode.RightArrow) ||
+            Input.GetKey(KeyCode.DownArrow))
+            return;
+        Anim_Parameters_Bool("isRunning", false);
+        Anim_Parameters_Bool("isWalking", false);
     }
 
     #endregion
@@ -147,22 +156,30 @@ public class Player_Move : MonoBehaviour
             Input.GetKey(KeyCode.DownArrow))
             return;
 
+        Anim_Parameters_Bool("isRunning", false);
+        Anim_Parameters_Bool("isWalking", false);
+        /*
         if (Input.GetKeyUp(KeyCode.LeftArrow))
         {
+            Anim_Parameters_Bool("isRunning", false);
             Anim_Parameters_Bool("isWalking", false);
         }
         if (Input.GetKeyUp(KeyCode.UpArrow))
         {
+            Anim_Parameters_Bool("isRunning", false);
             Anim_Parameters_Bool("isWalking", false);
         }
         if (Input.GetKeyUp(KeyCode.RightArrow))
         {
+            Anim_Parameters_Bool("isRunning", false);
             Anim_Parameters_Bool("isWalking", false);
         }
         if (Input.GetKeyUp(KeyCode.DownArrow))
         {
+            Anim_Parameters_Bool("isRunning", false);
             Anim_Parameters_Bool("isWalking", false);
         }
+        */
     }
     #endregion
 
@@ -225,6 +242,7 @@ public class Player_Move : MonoBehaviour
     {
         LayerMask layer = LayerMask.GetMask("Tileset");
         RaycastHit2D hit = Physics2D.Raycast(transform.position + pos, transform.forward, 1f, layer);
+        Debug.DrawRay(transform.position + pos, transform.forward, Color.green, 1f);
         if (hit)
         {
             if (hit.collider.name == "Layer Grass" || hit.collider.name == "Layer Load")
@@ -241,14 +259,21 @@ public class Player_Move : MonoBehaviour
     float top_what()
     {
         LayerMask layer = LayerMask.GetMask("Tileset");
-        RaycastHit2D hit= Physics2D.Raycast(transform.position + new Vector3(0, -0.05f, 0), transform.forward, 10f, layer);
-        if(hit)
+        RaycastHit2D hit= Physics2D.Raycast(transform.position, transform.forward, 10f, layer);
+        if (hit)
         {
             if (hit.collider.name == "Layer Load")
+            {
+                Anim_Parameters_Bool("isRunning", true);
                 return move_speed_load;
+            }
             else
+            {
+                Anim_Parameters_Bool("isRunning", false);
                 return move_speed;
+            }
         }
+        //Anim_Parameters_Bool("isRunning", false);
         return 0;
     }
     #endregion
