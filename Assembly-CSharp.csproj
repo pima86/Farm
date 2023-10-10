@@ -198,6 +198,7 @@
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonRotation.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\Other\WindowDragTilt.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\System\InvAttachmentPoint.cs" />
+    <Compile Include="Assets\Main\001 Script\007 House_SC\House_Col.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
     <Compile Include="Assets\NGUI\Scripts\Internal\IgnoreTimeScale.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UILabel.cs" />

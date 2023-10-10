@@ -72,7 +72,7 @@ public class Player_Move : MonoBehaviour
             else if (pos.y == -1)
                 Anim_Parameters_Int("Looking at time", 6);
 
-            if (Knowing_way(new Vector3(pos.x * 2f, pos.y, 0) * 0.01f))
+            if (Knowing_way(new Vector3(pos.x * 4f, pos.y, 0) * 0.01f))
                 GetKey_Move((int)pos.x, (int)pos.y);
         }
     }
