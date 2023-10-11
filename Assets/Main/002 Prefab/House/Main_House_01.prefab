@@ -17,7 +17,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &3811243285200110603
 Transform:
   m_ObjectHideFlags: 0
@@ -264,7 +264,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &6629905042124485815
 Transform:
   m_ObjectHideFlags: 0
@@ -592,7 +592,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7262807842677825165
 Transform:
   m_ObjectHideFlags: 0
@@ -1540,7 +1540,7 @@ GameObject:
   - component: {fileID: 5480364518568796574}
   - component: {fileID: 5192553612962861273}
   - component: {fileID: 2215133099337761305}
-  m_Layer: 3
+  m_Layer: 9
   m_Name: Layer Grass
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2055,6 +2055,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdd309934c55c1a48906c557f1265710, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  in_obj:
+  - {fileID: 3626176742682027755}
+  - {fileID: 977259577556612135}
+  out_obj:
+  - {fileID: 3104150463613150310}
+  - {fileID: 3548251969907990721}
+  - {fileID: 7710403509282741188}
 --- !u!1 &7568159096058315679
 GameObject:
   m_ObjectHideFlags: 0
@@ -2539,7 +2546,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &5929532110765261553
 Transform:
   m_ObjectHideFlags: 0

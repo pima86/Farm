@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2214252140668816850}
   - component: {fileID: 2003462344848284522}
   - component: {fileID: 9194339047230907595}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -117,7 +117,7 @@ GameObject:
   - component: {fileID: 7002277819106685825}
   - component: {fileID: 4978959369875147975}
   - component: {fileID: 6418405496189636114}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hair
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 1527384517513399866}
   - component: {fileID: 8252990108000216755}
   - component: {fileID: 2520500288846160754}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Local Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -266,8 +266,8 @@ MonoBehaviour:
   animators:
   - {fileID: 9194339047230907595}
   - {fileID: 2842354891743074007}
-  move_speed: 0.01
-  move_speed_load: 0.013
+  move_speed: 0.008
+  move_speed_load: 0.01
   transforms:
   - {fileID: 7587241787273770893}
 --- !u!50 &8252990108000216755
@@ -353,7 +353,7 @@ GameObject:
   - component: {fileID: 7075091298358241413}
   - component: {fileID: 8161566396170841659}
   - component: {fileID: 2487271503196604692}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Chest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -459,7 +459,7 @@ GameObject:
   - component: {fileID: 7640817433398796869}
   - component: {fileID: 2696071890074302012}
   - component: {fileID: 2842354891743074007}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Legs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
